@@ -1,9 +1,0 @@
-comandos git:
-
-init
-add
-status
-commit
-log
-log -oneline
-annotate <file>
